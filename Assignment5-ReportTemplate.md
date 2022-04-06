@@ -4,7 +4,7 @@
 
 | Group \#:       |   |
 |-----------------|---|
-| Student Names:  |   |
+| Student Names:  |  Jonas Wong |
 |                 |   |
 |                 |   |
 |                 |   |
@@ -24,9 +24,11 @@
 # Discussion on Similarity and Differences of the Two Techniques
 
 # How the team work/effort was divided and managed
+We split up into two pairs where each pair would work primarily on either part one or part two. Though the teams were split, we also made sure to always check up with the other team to make sure that we understood all parts of the lab and that we could help out anytime any issues arise. We did this by making sure that we would meet up every few days to discuss what was done and if any additional help was needed and though both teams were working on different parts, we tried to collaborate whenever we could. 
 
-# 
 
 # Difficulties encountered, challenges overcome, and lessons learned
+For creating the RDC, figuring out what values to change to get the required results was confusing. We learned how to use excel better, especially with graphs and learned how MTTF would effect the whether the system would be within the reject, continue, or accept ranges.
 
 # Comments/feedback on the lab itself
+There weren't as many instructions and helpful tips for this lab so it was harder to understand how to use some of the tools given. As for the actual lab itself, because of the sparse amount of instructions, we had many difficulties figuring out what we were supposed to do and how to do it. For example, for the RDC portion of the lab, there was a lot of data all over the place and it was extrememly confusing finding out what values would need to be changed/what data to pay attention to in the first place. More details on what to focus on and how to proceed with the lab would have been extremely helpful.  
