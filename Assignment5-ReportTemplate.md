@@ -15,9 +15,9 @@
 ## Model Comparison Results
 The top two models selected to fit the failure data the most was the Geomtric Model and the S Distribution Model. Visually, they fit closer to the shape of failure data in an MVF graph as well as in an intensity graph. They also seem to visually be equal, as the line graph of each model for this failure data cover the same points. However, by looking at the calculated AIC and BIC, the geometric model (GM) has a lower value then the S Distribution Model (S). This means that the geometric model is a better model than the S Distribution Model.
 
-![](./media/mod_comp_mvf.png)
-![](./media/mod_comp_intens.png)
-![](./media/mod_comp_calc.png)
+![](./media/mod_comp_mvf.PNG)
+![](./media/mod_comp_intens.PNG)
+![](./media/mod_comp_calc.PNG)
 
 # Assessment Using Reliability Demonstration Chart 
 
