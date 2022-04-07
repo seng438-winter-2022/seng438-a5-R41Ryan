@@ -34,6 +34,11 @@ As for what range of data is good for analysis, in reliability growth testing, t
 
 Given that the failure data provides no information on the version of the SUT these failures occured on, we can only presume they occured on the same version; So we cannot ignore data based on old changes. However, there are 92 failures total in the data; A general rule for ignoring old data is that recent failure data must contain at least 40-50 failures for proper analysis and is only applicable to systems that have had less than 20% of their program changed. Therefore, for this SUT, we can remove old data up until we have 50 failures left. In this case (referring to the MVF graph), **we can analyse the failure data from interval 13 and beyond.**
 
+## How Decision Making is Affected Given a Target Failure Rate
+A Failure Rate refers to the number of failures over time. A target failure rate affects decision making by affecting how much testing the developers (and subsequently, how many failures to fix) they would need to do. The lower the target failure rate, the more testing they would to do. Likewise, the higher the target failure rate, the less testing they would need to do.
+
+As a consequence, a target failure can affect decision making by also affecting how resources are spent on other processes of the software development process, such as requirements elictation/analysis and implementation.
+
 # Assessment Using Reliability Demonstration Chart 
 
 # 
