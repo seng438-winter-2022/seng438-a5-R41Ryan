@@ -2,10 +2,10 @@
 
 **Lab. Report \#5 – Software Reliability Assessment**
 
-| Group \#:       |   |
+| Group \#:       | 34  |
 |-----------------|---|
 | Student Names:  |  Jonas Wong |
-|                 |   |
+|                 |  Ryan Huynh |
 |                 |   |
 |                 |   |
 
