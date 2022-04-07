@@ -27,6 +27,13 @@ The top two models selected to fit the failure data the most was the Geomtric Mo
 
 ![](./media/mod_comp_calc.PNG)
 
+## Range Analysis
+As for what range of data is good for analysis, in reliability growth testing, there are only two reasons to ignore failure data:
+* The SUT has changed, and the failure data to be ignored is from a previous version
+* The failure data is too old.
+
+Given that the failure data provides no information on the version of the SUT these failures occured on, we can only presume they occured on the same version; So we cannot ignore data based on old changes. However, there are 92 failures total in the data; A general rule for ignoring old data is that recent failure data must contain at least 40-50 failures for proper analysis and is only applicable to systems that have had less than 20% of their program changed. Therefore, for this SUT, we can remove old data up until we have 50 failures left. In this case (referring to the MVF graph), **we can analyse the failure data from interval 13 and beyond.**
+
 # Assessment Using Reliability Demonstration Chart 
 
 # 
