@@ -39,6 +39,9 @@ A Failure Rate refers to the number of failures over time. A target failure rate
 
 As a consequence, a target failure can affect decision making by also affecting how resources are spent on other processes of the software development process, such as requirements elictation/analysis and implementation.
 
+## Advantages and Disadvantages of Reliability Growth Analysis.
+A major advantage of reliability growth testing is that it gives the developers insight into how the reliability of their software is changing: Is the reliability growing or shrinking? When will the reliability reach the target reliabilty? When is testing of the SUT sufficient? As such
+
 # Assessment Using Reliability Demonstration Chart 
 
 # 
