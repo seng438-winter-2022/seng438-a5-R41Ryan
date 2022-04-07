@@ -12,8 +12,8 @@
 # Introduction
 
 # Assessment Using Reliability Growth Testing 
-## Model Comparison
-
+## Model Comparison Results
+The top two models selected to fit the failure data the most was the Geomtric Model and the S Distribution Model. Visually, they fit closer to the shape of failure data in an MVF graph as well as in an intensity graph. 
 
 # Assessment Using Reliability Demonstration Chart 
 
