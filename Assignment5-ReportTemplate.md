@@ -7,7 +7,7 @@
 | Student Names:  |  Jonas Wong |
 |                 |  Ryan Huynh |
 |                 |  Mathew Pelletier |
-|                 |   |
+|                 |  Mason Harris |
 
 # Introduction
 
@@ -47,7 +47,7 @@ A disadvantage is that reliability growth analysis analysis is dependent on havi
 # Assessment Using Reliability Demonstration Chart 
 
 # Reliability Demonstration Chart results 
-
+In order to make the RDC macro work, we needed to change the measured input events to seconds, and change the failure data given to us to be cumulative. The minimum MTTF was determined by using trial and error with changing the values of the maximum acceptable number of failures and the number of input events. The goal was for the SUT(black line) to end inside the acceptable zone.
 **Minimum MTTF**
 
 ![](./media/minMTTF.png) 
