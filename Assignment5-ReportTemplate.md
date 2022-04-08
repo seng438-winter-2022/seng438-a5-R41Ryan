@@ -50,15 +50,15 @@ A disadvantage is that reliability growth analysis analysis is dependent on havi
 
 **Minimum MTTF**
 
-![](./media/minMTTF.PNG) 
+![](./media/minMTTF.png) 
 
 **Double the minimum MTTF**
 
-![](./media/doubleMTTF.PNG)
+![](./media/doubleMTTF.png)
 
 **Half the minimum MTTF**
 
-![](./media/halfMTTF.PNG)
+![](./media/halfMTTF.png)
 
 # Comparison of Results
 
