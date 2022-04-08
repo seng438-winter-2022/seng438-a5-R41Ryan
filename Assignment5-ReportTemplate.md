@@ -6,7 +6,7 @@
 |-----------------|---|
 | Student Names:  |  Jonas Wong |
 |                 |  Ryan Huynh |
-|                 |   |
+|                 |  Mathew Pelletier |
 |                 |   |
 
 # Introduction
