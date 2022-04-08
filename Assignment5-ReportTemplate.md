@@ -46,7 +46,19 @@ A disadvantage is that reliability growth analysis analysis is dependent on havi
 
 # Assessment Using Reliability Demonstration Chart 
 
-# 
+# Reliability Demonstration Chart results 
+
+**Minimum MTTF**
+
+![](./media/minMTTF.PNG) 
+
+**Double the minimum MTTF**
+
+![](./media/doubleMTTF.PNG)
+
+**Half the minimum MTTF**
+
+![](./media/halfMTTF.PNG)
 
 # Comparison of Results
 
