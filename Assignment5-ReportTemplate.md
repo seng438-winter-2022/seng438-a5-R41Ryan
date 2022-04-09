@@ -63,7 +63,11 @@ In order to make the RDC macro work, we needed to change the measured input even
 
 # Comparison of Results
 
+Part 1 (Reliability Growth Analysis) tells the developers the trend on how the reliability of the SUT is changing. It helps the developers predict how much testing they will need to do before they reach their target reliability. Part 2 (Reliability Demonstration Chart) tells the developers the trend of the testing in terms of the time-to-failure based on how it changes as the SUT develops. It helps the developers decide whether to continue testing, accept the SUT, or reject it entirely, depending on what they have set their target MTTF (mean time to failure).
+
 # Discussion on Similarity and Differences of the Two Techniques
+
+Part 1 focuses on failure *rate* and predicts the trend, where as part 2 focuses on *time-to-failures* and decides whether the SUT is acceptable or not.
 
 # How the team work/effort was divided and managed
 We split up into two pairs where each pair would work primarily on either part one or part two. Though the teams were split, we also made sure to always check up with the other team to make sure that we understood all parts of the lab and that we could help out anytime any issues arise. We did this by making sure that we would meet up every few days to discuss what was done and if any additional help was needed and though both teams were working on different parts, we tried to collaborate whenever we could. 
