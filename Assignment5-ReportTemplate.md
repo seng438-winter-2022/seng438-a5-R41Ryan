@@ -67,7 +67,7 @@ Part 1 (Reliability Growth Analysis) tells the developers the trend on how the r
 
 # Discussion on Similarity and Differences of the Two Techniques
 
-Part 1 focuses on failure *rate* and predicts the trend, where as part 2 focuses on *time-to-failures* and decides whether the SUT is acceptable or not.
+Part 1 focuses on failure *rate* and predicts the trend, where as part 2 focuses on *time-to-failures* and decides whether the SUT is acceptable or not. Both of these methods effectively aim towards the same goal, to establish whether or not the SUT is trending towards improved reliability, or a longer MTTF, or not and whether adjustments and further testing will be required. 
 
 # How the team work/effort was divided and managed
 We split up into two pairs where each pair would work primarily on either part one or part two. Though the teams were split, we also made sure to always check up with the other team to make sure that we understood all parts of the lab and that we could help out anytime any issues arise. We did this by making sure that we would meet up every few days to discuss what was done and if any additional help was needed and though both teams were working on different parts, we tried to collaborate whenever we could. 
